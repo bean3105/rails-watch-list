@@ -1,14 +1,14 @@
 .cards {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-gap: 16px;
   padding: 10px;
 }
 
 .card-category {
   background-size: cover;
-  background-position: center;
-  height: 180px;
+  background-position: top;
+  height: 200px;
   display: flex;
   justify-content: center;
   align-items: center;
